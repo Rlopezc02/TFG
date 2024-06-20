@@ -1,0 +1,74 @@
+/* JsonOut.css */
+
+
+.halfBoxImage1 {
+  display: flex;
+  border: 2px solid #005573;
+  justify-content: center;
+  margin-left: 6px;
+  /* padding: 20px; */
+  width: 25vh;
+  height: 22vh;
+  /* flex-direction: row; */
+}
+
+.halfBoxImage2 {
+  /* display: flex; */
+  border: 2px solid #005573;
+  padding: 15px;
+  height: 77vh;
+  width: 80vh;
+  flex-direction: row;
+}
+
+
+
+.textosalida {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 20px;
+  color: #005573;
+}
+
+
+.head {
+    background-color: #00aa9b;
+    color: #ffffff;
+    display:flex;
+    justify-content: center;
+    padding: 2px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    border: 2px solid #033c62;
+}
+
+.footer {
+  background-color: #00aa9b;
+  color: #ffffff;
+  display:flex;
+  justify-content: center;
+  padding: 2px;
+  margin-bottom: 5px;
+  margin-top: 20px;
+  border: 2px solid #033c62;
+}
+
+
+.nombre {
+  flex: 0 0 auto;
+  display:flex;
+  justify-content: center;
+  width: 33.33333333%;
+}
+
+.titulo{
+    background-color: #528db4;
+    color: #ffffff;
+    display:flex;
+    justify-content: center;
+    padding: 2px;
+    margin-bottom: 5px;
+    border: 4px solid #033c62;
+}

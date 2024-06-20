@@ -1,0 +1,7 @@
+<svg id="brand-logo" xmlns="http://www.w3.org/2000/svg" width="300" height="100" viewBox="0 0 300 100" aria-hidden="true">
+  <!-- Texto "TFG" -->
+  <text x="0" y="45" font-family="Arial" font-size="60" fill="#ffffff" stroke="#000000" stroke-width="1">TFG</text>
+  <!-- Texto "Ricardo López Cano" debajo de "TFG" -->
+  <text x="0" y="90" font-family="Arial" font-size="40" fill="#ffffff">Ricardo López </text>
+</svg>
+
